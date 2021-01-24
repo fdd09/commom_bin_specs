@@ -1,0 +1,27 @@
+{
+  "name": "BinTest",
+  "version": "0.1.6",
+  "summary": "A short description of BinTest.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 11111111",
+  "homepage": "https://github.com/dongwang.feng/BinTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongwang.feng": "dongwang.feng@amh-group.com"
+  },
+  "source": {
+    "http": "http://localhost:27017/frameworks/BinTest/0.1.6/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BinTest/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "vendored_frameworks": "BinTest.framework"
+}
