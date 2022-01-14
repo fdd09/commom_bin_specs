@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "dongwang.feng": "dongwang.feng@amh-group.com"
+    "dongwang.feng": "dongwang"
   },
   "source": {
     "http": "http://localhost:27017/frameworks/BinTest/0.1.6/zip",
